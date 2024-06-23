@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Software Test Developer<br>🌱 I’m currently learning BackEnd Side<br>
+🔭 I’m currently working on Software Developer<br>🌱 I’m currently learning BackEnd Side<br>
 
 
 ## 🌐 Socials:
